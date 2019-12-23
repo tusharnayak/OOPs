@@ -1,0 +1,31 @@
+{
+	"STOCK MARKET": {
+		"B": [
+			{
+				"CompanyName": "bridgelabz",
+				"NumberOfShare": 202,
+				"Price": 0.0,
+				"CompanySymbol": "B",
+				"Date": "29-11-2019"
+			}
+		],
+		"tyy": [
+			{
+				"CompanyName": "itc",
+				"NumberOfShare": 50,
+				"Price": 0.0,
+				"CompanySymbol": "tyy",
+				"Date": "29-11-2019"
+			}
+		],
+		"yyy": [
+			{
+				"CompanyName": "itc",
+				"NumberOfShare": 100,
+				"Price": 0.0,
+				"CompanySymbol": "yyy",
+				"Date": "29-11-2019"
+			}
+		]
+	}
+}

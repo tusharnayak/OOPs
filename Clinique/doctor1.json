@@ -1,0 +1,43 @@
+[ {
+  "dName" : "tushar",
+  "dId" : 101,
+  "spec" : "ear",
+  "avail" : "morning",
+  "appointment" : 5
+}, {
+  "dName" : "ggg",
+  "dId" : 111,
+  "spec" : "ear",
+  "avail" : "morning",
+  "appointment" : 2
+}, {
+  "dName" : "hhh",
+  "dId" : 222,
+  "spec" : "eye",
+  "avail" : "night",
+  "appointment" : 3
+}, {
+  "dName" : "jjj",
+  "dId" : 333,
+  "spec" : "nose",
+  "avail" : "night",
+  "appointment" : 4
+}, {
+  "dName" : "yash",
+  "dId" : 333,
+  "spec" : "nose",
+  "avail" : "night",
+  "appointment" : 1
+}, {
+  "dName" : "mahesh",
+  "dId" : 122,
+  "spec" : "hair",
+  "avail" : "morning",
+  "appointment" : 5
+}, {
+  "dName" : "ssss",
+  "dId" : 54,
+  "spec" : "t",
+  "avail" : "night",
+  "appointment" : 5
+} ]

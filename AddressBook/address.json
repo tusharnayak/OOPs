@@ -1,0 +1,73 @@
+[ {
+  "fName" : "tushar",
+  "lName" : "nayak",
+  "address" : "odisha",
+  "city" : "bhubaneswar",
+  "state" : "hescz",
+  "zip" : 123,
+  "phno" : 987
+}, {
+  "fName" : "gd",
+  "lName" : "tght",
+  "address" : "sfs",
+  "city" : "rt",
+  "state" : "ty",
+  "zip" : 5445,
+  "phno" : 323
+}, {
+  "fName" : "gdg",
+  "lName" : "rtr",
+  "address" : "adsa",
+  "city" : "hgnh",
+  "state" : "jhm",
+  "zip" : 521,
+  "phno" : 987
+}, {
+  "fName" : "kjk",
+  "lName" : "lll",
+  "address" : "jjj",
+  "city" : "iuy",
+  "state" : "too",
+  "zip" : 321,
+  "phno" : 9876
+}, {
+  "fName" : "ranjan",
+  "lName" : "tetr",
+  "address" : "hhh",
+  "city" : "jjj",
+  "state" : "tre",
+  "zip" : 321,
+  "phno" : 987
+}, {
+  "fName" : "hhh",
+  "lName" : "jjj",
+  "address" : "uyy",
+  "city" : "hfh",
+  "state" : "uy",
+  "zip" : 369,
+  "phno" : 0
+}, {
+  "fName" : "rrr",
+  "lName" : "ttt",
+  "address" : "yyy",
+  "city" : "ggg",
+  "state" : "h",
+  "zip" : 369,
+  "phno" : 0
+}, {
+  "fName" : "asgs",
+  "lName" : "asfasf",
+  "address" : "safafasdf",
+  "city" : "dfgsd",
+  "state" : "asdfsD",
+  "zip" : 63,
+  "phno" : 987456
+}, {
+  "fName" : "choudhary",
+  "lName" : "chchch",
+  "address" : "pune",
+  "city" : "iiii",
+  "state" : "mh",
+  "zip" : 1234,
+  "phno" : 9938
+} ]

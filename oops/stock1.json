@@ -1,0 +1,21 @@
+[ {
+  "name" : "abcd",
+  "noOfShares" : 21,
+  "pricePerShare" : 35.0
+}, {
+  "name" : "ashja",
+  "noOfShares" : 468,
+  "pricePerShare" : 564.0
+}, {
+  "name" : "itc",
+  "noOfShares" : 654,
+  "pricePerShare" : 300.0
+}, {
+  "name" : "bsnl",
+  "noOfShares" : 100,
+  "pricePerShare" : 200.0
+}, {
+  "name" : "ril",
+  "noOfShares" : 90,
+  "pricePerShare" : 250.0
+} ]

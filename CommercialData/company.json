@@ -1,0 +1,24 @@
+[
+   { 
+      "companyName":"ITC",
+      "noOfshares":100, 
+      "pricePerShare":200
+   },
+  
+   { 
+      "companyName":"BSNL",
+      "noOfshares":200, 
+      "pricePerShare":400
+   },
+   { 
+      "companyName":"HDFC",
+      "noOfshares":50, 
+      "pricePerShare":70
+   },
+   { 
+      "companyName":"TATA",
+      "noOfshares":90, 
+      "pricePerShare":250
+   }
+]
+   

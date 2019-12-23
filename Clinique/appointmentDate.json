@@ -1,0 +1,16 @@
+{
+  "dayOfYear" : 353,
+  "dayOfWeek" : "THURSDAY",
+  "month" : "DECEMBER",
+  "dayOfMonth" : 19,
+  "year" : 2019,
+  "monthValue" : 12,
+  "hour" : 19,
+  "minute" : 32,
+  "second" : 20,
+  "nano" : 541000000,
+  "chronology" : {
+    "calendarType" : "iso8601",
+    "id" : "ISO"
+  }
+}
